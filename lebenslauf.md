@@ -61,6 +61,7 @@
 * [Erdwerk Keramik](http://www.erdwerk-keramik.at)
 * [For Magic Moments - Template für Jimdo](http://www.for-magic-moments.com)
 * [Notar Frey-Freyenfels](http://www.notar-frey-freyenfels.at)
+* [v1no55](http://v1no55.at/)
 * [AR Drone Controller with JavaScript](https://github.com/tiefenb/ardrone-webcontroller)
 * [kleine Projekte bei EPOS4](http://rip.epos4.at) (seit 1.1.2012 offline)
 
