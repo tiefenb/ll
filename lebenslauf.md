@@ -1,6 +1,6 @@
 #Lebenslauf#
 
-![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/blob/master/images/thumbs/myself.jpg)
+![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/myself.jpg)
 
 ##Profil##
 
@@ -21,7 +21,7 @@
 	* Conversion/Usability-Testing
 	* Entwicklung diverser kleiner Backend-Projekte mit Node.JS und MongoDB
 	<br/><br/>
-	![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/blob/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/blob/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/blob/master/images/thumbs/db3.jpg)
+	![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db3.jpg)
 	<br/><br/>
 * Entwicklung Frontend eines Immoblienmakler Tools für Arnold-Immoblien
 
