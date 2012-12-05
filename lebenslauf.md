@@ -16,7 +16,7 @@
 ##Beruflicher Werdegang##
 
 ###Web Developer, YOUSURE Tarifvergleich GmbH 2009- ###
-* ####Entwicklung von [durchblicker.at](https://durchblicker.at)####
+* Entwicklung von [durchblicker.at](https://durchblicker.at
 	* **Frontend Entwicklung der Versionen 1-3**
 	* Conversion/Usability-Testing
 	* Entwicklung diverser kleiner Backend-Projekte mit Node.JS und MongoDB
