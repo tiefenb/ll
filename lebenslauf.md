@@ -8,7 +8,7 @@
 	<tr><th>Name</th><td>Markus Tiefenbacher</td></tr>
 	<tr><th>Geburtsdatum</th><td>04.12.1989</td></tr>
 	<tr><th>Geburtsort</th><td>Krems a.d. Donau</td></tr>
-	<tr><th>Staatsangehörigkeit</th><td>Österreich</td></tr>
+	<tr><th>Staatsangehörigkeit</th><td>Österreich</td></tr>
 </table>
 
 ---
@@ -19,7 +19,7 @@
 * Entwicklung von [durchblicker.at](https://durchblicker.at)
 	* **Frontend Entwicklung der Versionen 1-3**
 	* Conversion/Usability-Testing
-	* Entwicklung diverser kleiner Backend-Projekte mit Node.JS und MongoDB
+	* Entwicklung diverser kleiner Backend-Projekte
 	<br/><br/>
 	![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db3.jpg)
 	<br/><br/>
