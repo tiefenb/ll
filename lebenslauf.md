@@ -74,6 +74,8 @@
 * Google Analytics, [Visual Website Optimizer](http://visualwebsiteoptimizer.com/)
 * Responsive Webdesign
 * [Selenium](http://seleniumhq.org/)
+* Post Affiliate Pro
+* API's vieler Webdienste (Twitter, Flickr, Facebook, Norc, Google/Bing Maps, etc)
 
 **Grundkenntisse in:**
 
