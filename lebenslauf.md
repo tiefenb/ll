@@ -15,13 +15,17 @@
 
 ##Beruflicher Werdegang##
 
-###Web Developer, YOUSURE Tarifvergleich GmbH 2009- ###
+###Web Developer, TAO Software 2013-####
+
+* Entwicklung einer Immobilienplatform
+
+###Web Developer, YOUSURE Tarifvergleich GmbH 2009-2013 ###
 * Entwicklung von [durchblicker.at](https://durchblicker.at)
-	* **Frontend Entwicklung der Versionen 1-3**
+	* **Frontend Entwicklung der Versionen 1-2**
 	* Conversion/Usability-Testing
 	* Entwicklung diverser kleiner Backend-Projekte
 	<br/><br/>
-	![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/db3.jpg)
+	![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db3.jpg) ![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db4.jpg) ![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db5.jpg) ![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db6.jpg)
 	<br/><br/>
 * Entwicklung Frontend eines Immoblienmakler Tools für Arnold-Immoblien
 
@@ -52,17 +56,15 @@
 ---
 
 ##Sonstige Projekte##
-* SAE Diplomarbeit: *Zukunft von 3D-Grafik im Browser mit WebGL*
-* SAE Bachelor Arbeit: *Conversion Optimerung im Kontext des Vergleichsportal durchblicker.at*
-* [The SAE Sessions](http://sessions.sae.at)
-* [SAE Geschichte von GPS](http://tiefenb.com/gps)
-* [SAE Basic Motors](http://tiefenb.com/basic)
-* [SAE Pizza Hot'n'Fresh](http://tiefenb.com/pizza)
-* [Erdwerk Keramik](http://www.erdwerk-keramik.at)
+* SAE - Diplomarbeit: *Zukunft von 3D-Grafik im Browser mit WebGL*
+* SAE - Bachelor Arbeit: *Conversion Optimerung im Kontext des Vergleichsportal durchblicker.at*
+* [The SAE Sessions - sessions.sae.at (interaktiver Videoplayer)](http://sessions.sae.at)
+* SAE - Basic Motors (Website mit 3D Autokonfigarator, derzeit offline)
+* SAE - Pizza Hot'n'Fresh (Online Pizza Lieferservice, derzeit offline)
+* [Erdwerk Keramik - erdwerk-keramik.at](http://www.erdwerk-keramik.at)
 * [For Magic Moments - Template für Jimdo](http://www.for-magic-moments.com)
 * [Notar Frey-Freyenfels](http://www.notar-frey-freyenfels.at)
 * [v1no55](http://v1no55.at/)
-* [AR Drone Controller with JavaScript](https://github.com/tiefenb/ardrone-webcontroller)
 * [kleine Projekte bei EPOS4](http://rip.epos4.at) (seit 1.1.2012 offline)
 
 ---
@@ -84,8 +86,6 @@
 * Wordpress, Joomla
 * UNIX/Linux Server
 * Apache Webserver
-
-Auch möchte ich mich in Zukunft mit *Ruby/Rails*, *Pyhton/Django* und *[Go](http://golang.org/)* auseinandersetzen.
 
 ---
 
