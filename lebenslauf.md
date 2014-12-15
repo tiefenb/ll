@@ -17,7 +17,7 @@
 
 ###Web Performance / Marketing Engineer, Styria Digital (Digital Performance Unit) Juni 2013 - heute####
 
-* Support aller Styria Portale in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
+* Support aller Styria Portale (u.a. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) und [wogibtswas.at](http://www.wogibtswas.at/) ) in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
 * Projekt Leitung für Big Data, DMP und Recommendation Engine Projekte
 * Entwicklung von Marketing und Analytics-Tools
 * Entwicklung von [derbrutkasten.at](https://www.derbrutkasten.at/)
