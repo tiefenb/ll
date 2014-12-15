@@ -15,9 +15,18 @@
 
 ##Beruflicher Werdegang##
 
-###Web Developer, TAO Software 2013-####
+###Web Performance / Marketing Engineer, Styria Digital (Digital Performance Unit) Juni 2013 - heute####
+
+* Support aller Styria Portale in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
+* Projekt Leitung für Big Data, DMP und Recommendation Engine Projekte
+* Entwicklung von Marketing und Analytics-Tools
+* Entwicklung von [derbrutkasten.at](https://www.derbrutkasten.at/)
+
+###Web Developer, TAO Software März 2013 - Juni 2013####
 
 * Entwicklung einer Immobilienplatform
+* Entwicklung [vennbahn.eu](http://www.vennbahn.eu/)
+* Sales iPad-App für Anton Paar GmbH
 
 ###Web Developer, YOUSURE Tarifvergleich GmbH 2009-2013 ###
 * Entwicklung von [durchblicker.at](https://durchblicker.at)
