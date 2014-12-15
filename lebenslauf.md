@@ -15,14 +15,14 @@
 
 ##Beruflicher Werdegang##
 
-###Web Performance / Marketing Engineer, Styria Digital (Digital Performance Unit) Juni 2013 - heute####
+###Web Performance / Marketing Engineer, [Styria Digital](http://www.styria-digital.com) (Digital Performance Unit) Juni 2013 - heute####
 
 * Support aller Styria Portale (u.a. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) und [wogibtswas.at](http://www.wogibtswas.at/) ) in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
 * Projekt Leitung für Big Data, DMP und Recommendation Engine Projekte
 * Entwicklung von Marketing und Analytics-Tools
 * Entwicklung von [derbrutkasten.at](https://www.derbrutkasten.at/)
 
-###Web Developer, TAO Software März 2013 - Juni 2013####
+###Web Developer, [TAO Software](http://software.tao.at) März 2013 - Juni 2013####
 
 * Entwicklung einer Immobilienplatform
 * Entwicklung [vennbahn.eu](http://www.vennbahn.eu/)
@@ -39,13 +39,13 @@
 	<br/><br/>
 * Entwicklung Frontend eines Immoblienmakler Tools für Arnold-Immoblien
 
-###Umweltbundesamt GmbH 2008-2009###
+###[Umweltbundesamt GmbH](http://www.umweltbundesamt.at/) 2008-2009###
 *  Interner First-Level IT-Support
 *  Organisation des Laptop/Beamerverleihs
 *  Austausch von Hardware
 
 ###NÖ Festival GmbH 2008###
-*  Festival Assistent am Donaufestival
+*  Festival Assistent am [Donaufestival](http://www.donaufestival.at/)
 
 ###Rotes Kreuz Krems 2007-2008###
 * Zivildienst
