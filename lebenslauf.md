@@ -80,11 +80,15 @@
 ---
 
 ##Fachkenntisse##
-* HTML(5), CSS(3)/[LESS](http://lesscss.org/), JavaScript (inkl. jQuery), Flash/ActionScript, XML/XSLT/XPath
+* HTML(5), CSS(3)/[LESS](http://lesscss.org/)/SASS, JavaScript (inkl. jQuery), Flash/ActionScript, XML/XSLT/XPath
+* React.js / Angular.js
 * [Node.JS](http://nodejs.org/)/NPM, PHP, [Socket.IO](http://socket.io/)
-* MySQL, MongoDB, CouchDB, MemcacheD, SQLite
+* MySQL, MongoDB, CouchDB, MemcacheD, SQLite, Redis, LevelDB
+* Wordpress
 * GIT, SVN
 * Google Analytics, [Visual Website Optimizer](http://visualwebsiteoptimizer.com/)
+* AT Internet Analyser
+* Cxense DMP & Content Recommendation Engine
 * Responsive Webdesign
 * [Selenium](http://seleniumhq.org/)
 * Post Affiliate Pro
@@ -93,9 +97,11 @@
 **Grundkenntisse in:**
 
 * Photoshop, Illustrator, InDesign, Pixelmator, Balsamiq Mockups
-* Wordpress, Joomla
 * UNIX/Linux Server
 * Apache Webserver
+* NGINX Webserver
+* Go-Lang
+* ElasticSearch
 
 ---
 
