@@ -15,12 +15,16 @@
 
 ##Beruflicher Werdegang##
 
-###Web Performance / Marketing Engineer, [Styria Digital](http://www.styria-digital.com) (Digital Performance Unit) Juni 2013 - heute####
+###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) Juni 2013 - heute####
 
 * Support aller Styria Portale (u.a. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) und [wogibtswas.at](http://www.wogibtswas.at/) ) in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
 * Projekt Leitung für Big Data, DMP und Recommendation Engine Projekte
-* Entwicklung von Marketing und Analytics-Tools
-* Entwicklung von [derbrutkasten.at](https://www.derbrutkasten.at/)
+* Entwicklung von Marketing und Analytics-Tools (Analyse Dashboards und Exports aus verschiedenen Tool-APIs, Entwicklung eines Portalübergreifendes Backlinking-Tools)
+* Entwicklung von Version 1 und 2 von [derbrutkasten.at](https://www.derbrutkasten.at/)
+* Entwicklung von [diesportpresse.com](https://www.diesportpresse.com)
+* Entwicklung einer Portalübergreifenden Content Recommendation Engine
+* Entwicklung diverses Banner-Technologien (Content-Feedbanner, Retargeting Banner)
+* Votragender auf diversen internen und externen Schulungen/Konferenzen
 
 ###Web Developer, [TAO Software](http://software.tao.at) März 2013 - Juni 2013####
 
