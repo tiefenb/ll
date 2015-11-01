@@ -8,7 +8,6 @@
 	<tr><th>Name</th><td>Markus Tiefenbacher</td></tr>
 	<tr><th>Geburtsdatum</th><td>04.12.1989</td></tr>
 	<tr><th>Geburtsort</th><td>Krems a.d. Donau</td></tr>
-	<tr><th>Staatsangehörigkeit</th><td>Österreich</td></tr>
 </table>
 
 ---
@@ -65,6 +64,7 @@
 	<tr><th>Sporthauptschule Gföhl</th><td>2000-2004</td></tr>
 	<tr><th>BHAS Krems a.d. Donau<br/>Fachbereich Digital Business</th><td>2004-2007</td></tr>
 	<tr><th>SAE Technology Institute Wien<br/>Web Design & Development<br/>Abschluss: Bachelor of Science (Honours)</th><td>2008-2012</td></tr>
+	<tr><th>Styria Essentials (High Potentials/Leadership Ausbildung)</th><td>2014-2014</td></tr>
 </table>
 
 ---
