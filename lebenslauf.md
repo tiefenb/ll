@@ -1,4 +1,4 @@
-#Lebenslauf#
+#CV#
 
 ![Screenshot Durchblicker](https://raw.github.com/tiefenb/ll/master/images/thumbs/myself.jpg)
 
@@ -6,24 +6,24 @@
 
 <table>
 	<tr><th>Name</th><td>Markus Tiefenbacher</td></tr>
-	<tr><th>Geburtsdatum</th><td>04.12.1989</td></tr>
-	<tr><th>Geburtsort</th><td>Krems a.d. Donau</td></tr>
+	<tr><th>Birthday</th><td>04.12.1989</td></tr>
+	<tr><th>Location of birth</th><td>Krems a.d. Donau</td></tr>
 </table>
 
 ---
 
-##Beruflicher Werdegang##
+##Career##
 
-###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) Juni 2013 - heute####
+###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) Juni 2013 - today####
 
-* Support aller Styria Portale (u.a. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) und [wogibtswas.at](http://www.wogibtswas.at/) ) in den Themen Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimierung, A/B Testing und Usability Testing
-* Projekt Leitung für Big Data, DMP und Recommendation Engine Projekte
-* Entwicklung von Marketing und Analytics-Tools (Analyse Dashboards und Exports aus verschiedenen Tool-APIs, Entwicklung eines Portalübergreifendes Backlinking-Tools)
-* Entwicklung von Version 1 und 2 von [derbrutkasten.at](https://www.derbrutkasten.at/)
-* Entwicklung von [diesportpresse.com](https://www.diesportpresse.com)
-* Entwicklung einer Portalübergreifenden Content Recommendation Engine
-* Entwicklung diverses Banner-Technologien (Content-Feedbanner, Retargeting Banner)
-* Votragender auf diversen internen und externen Schulungen/Konferenzen
+* Support of Styria Companies (e.g. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) and [wogibtswas.at](http://www.wogibtswas.at/) ) Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimization, A/B Testing und Usability Testing
+* Projekt Lead Big Data, DMP und Recommendation Engine Projekte
+* Devlopment of Marketing und Analytics-Tools (Analytics Dashboards and Exports from various APIs, Development of Crossportal Backlinking-Tools)
+* Development of [derbrutkasten.at](https://www.derbrutkasten.at/)
+* Development of [diesportpresse.com](https://www.diesportpresse.com)
+* Development of a Crossportal Content Recommendation Engine
+* Development of various Banner-Technologies (Content-Feedbanner, Retargeting Banner)
+* Speaker of some internal and external conferences
 
 ###Web Developer, [TAO Software](http://software.tao.at) März 2013 - Juni 2013####
 
