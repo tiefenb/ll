@@ -83,9 +83,9 @@
 
 ---
 
-##Fachkenntisse##
+##Knowledge##
 * HTML(5), CSS(3)/[LESS](http://lesscss.org/)/SASS, JavaScript (inkl. jQuery), Flash/ActionScript, XML/XSLT/XPath
-* React.js / Angular.js
+* React.js / Angular.js / Ember.js
 * [Node.JS](http://nodejs.org/)/NPM, PHP, [Socket.IO](http://socket.io/)
 * MySQL, MongoDB, CouchDB, MemcacheD, SQLite, Redis, LevelDB
 * Wordpress
@@ -96,9 +96,9 @@
 * Responsive Webdesign
 * [Selenium](http://seleniumhq.org/)
 * Post Affiliate Pro
-* API's vieler Webdienste (Twitter, Flickr, Facebook, Norc, Google/Bing Maps, etc)
+* REST / SOAP
 
-**Grundkenntisse in:**
+**Basic or some Knowledge in:**
 
 * Photoshop, Illustrator, InDesign, Pixelmator, Balsamiq Mockups
 * UNIX/Linux Server
@@ -109,6 +109,6 @@
 
 ---
 
-##Sonstiges##
-* Führerschein Klasse B
-* Rettungssanitäter
+##Several##
+* Driving Licence
+* Paramedic
