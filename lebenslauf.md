@@ -14,7 +14,7 @@
 
 ##Career##
 
-###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) Juni 2013 - today####
+###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) June 2013 - today####
 
 * Support of Styria Companies (e.g. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) and [wogibtswas.at](http://www.wogibtswas.at/) ) Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimization, A/B Testing und Usability Testing
 * Projekt Lead Big Data, DMP und Recommendation Engine Projekte
@@ -25,61 +25,61 @@
 * Development of various Banner-Technologies (Content-Feedbanner, Retargeting Banner)
 * Speaker of some internal and external conferences
 
-###Web Developer, [TAO Software](http://software.tao.at) März 2013 - Juni 2013####
+###Web Developer, [TAO Software](http://software.tao.at) March 2013 - June 2013####
 
-* Entwicklung einer Immobilienplatform
-* Entwicklung [vennbahn.eu](http://www.vennbahn.eu/)
-* Sales iPad-App für Anton Paar GmbH
+* Development of a Real Estate Platform
+* Development [vennbahn.eu](http://www.vennbahn.eu/)
+* Sales iPad-App for "Anton Paar GmbH"
 
 ###Web Developer, YOUSURE Tarifvergleich GmbH 2009-2013 ###
-* Entwicklung von [durchblicker.at](https://durchblicker.at)
-	* **Frontend Entwicklung der Versionen 1-2**
+* Development of [durchblicker.at](https://durchblicker.at)
+	* **Frontend Development V1-V2**
 	* Conversion/Usability-Testing
-	* Entwicklung diverser kleiner Backend-Projekte
+	* Development of several Backend Projects
 	<br/><br/>
 	![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db1.jpg) ![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db2.jpg) ![Screenshot Durchblicker 1](https://raw.github.com/tiefenb/ll/master/images/thumbs/db3.jpg)
 	![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db4.jpg) ![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db5.jpg) ![Screenshot Durchblicker 2](https://raw.github.com/tiefenb/ll/master/images/thumbs/db6.jpg)
 	<br/><br/>
-* Entwicklung Frontend eines Immoblienmakler Tools für Arnold-Immoblien
+* Frontend Development of a CRM Tool for Arnold-Immoblien (Real Estate Agent)
 
 ###[Umweltbundesamt GmbH](http://www.umweltbundesamt.at/) 2008-2009###
-*  Interner First-Level IT-Support
-*  Organisation des Laptop/Beamerverleihs
-*  Austausch von Hardware
+*  Internal First-Level IT-Support
+*  Organisation Laptop/Beamerrentals
+*  Hardware changes
 
 ###NÖ Festival GmbH 2008###
-*  Festival Assistent am [Donaufestival](http://www.donaufestival.at/)
+*  Festival Assistent at [Donaufestival](http://www.donaufestival.at/)
 
 ###Rotes Kreuz Krems 2007-2008###
-* Zivildienst
-	* Rettungssanitäter
-	* Aushilfe in der Fakturierung
+* Civil Service
+	* Paramedic
+	* Billing Assistent
 
 ---
 
-##Ausbildung##
+##Education##
 
 <table>
 	<tr><th>Volksschule Gföhl</th><td>1996-2000</td></tr>
 	<tr><th>Sporthauptschule Gföhl</th><td>2000-2004</td></tr>
-	<tr><th>BHAS Krems a.d. Donau<br/>Fachbereich Digital Business</th><td>2004-2007</td></tr>
-	<tr><th>SAE Technology Institute Wien<br/>Web Design & Development<br/>Abschluss: Bachelor of Science (Honours)</th><td>2008-2012</td></tr>
+	<tr><th>BHAS Krems a.d. Donau<br/>Digital Business</th><td>2004-2007</td></tr>
+	<tr><th>SAE Technology Institute Vienna<br/>Web Design & Development<br/>Bachelor of Science (Honours)</th><td>2008-2012</td></tr>
 	<tr><th>Styria Essentials (High Potentials/Leadership Ausbildung)</th><td>2014-2014</td></tr>
 </table>
 
 ---
 
-##Sonstige Projekte##
-* SAE - Diplomarbeit: *Zukunft von 3D-Grafik im Browser mit WebGL*
-* SAE - Bachelor Arbeit: *Conversion Optimerung im Kontext des Vergleichsportal durchblicker.at*
-* [The SAE Sessions - sessions.sae.at (interaktiver Videoplayer)](http://sessions.sae.at)
-* SAE - Basic Motors (Website mit 3D Autokonfigarator, derzeit offline)
-* SAE - Pizza Hot'n'Fresh (Online Pizza Lieferservice, derzeit offline)
+##Other Projects##
+* SAE - Thesis: *Zukunft von 3D-Grafik im Browser mit WebGL*
+* SAE - Bachelor Thesis: *Conversion Optimerung im Kontext des Vergleichsportal durchblicker.at*
+* [The SAE Sessions - sessions.sae.at (interactive Videoplayer)](http://sessions.sae.at)
+* SAE - Basic Motors (Website with 3D Carconfiguration, currently offline)
+* SAE - Pizza Hot'n'Fresh (Online Pizza Deliveryservice, currently offline)
 * [Erdwerk Keramik - erdwerk-keramik.at](http://www.erdwerk-keramik.at)
-* [For Magic Moments - Template für Jimdo](http://www.for-magic-moments.com)
+* [For Magic Moments - Template for Jimdo](http://www.for-magic-moments.com)
 * [Notar Frey-Freyenfels](http://www.notar-frey-freyenfels.at)
 * [v1no55](http://v1no55.at/)
-* [kleine Projekte bei EPOS4](http://rip.epos4.at) (seit 1.1.2012 offline)
+* [some projects for EPOS4 / Social Community](http://rip.epos4.at) (seit 1.1.2012 offline)
 
 ---
 
