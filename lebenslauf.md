@@ -14,7 +14,12 @@
 
 ##Career##
 
-###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) June 2013 - today####
+###Web Shop Developer May 2016 - today####
+
+* Development of new Web Shop Features (Web Shop, Content CMS, Styleguide, etc.)
+* UX Improvement, Conversion Optimization and A/B Testing
+
+###Web Performance / Marketing Engineer, [Styria Digital Services](http://styriadigitalservices.com/) (Digital Performance Unit) June 2013 - Feb 2016####
 
 * Support of Styria Companies (e.g. [willhaben.at](http://www.willhaben.at/), [diepresse.com](http://diepresse.at/), [kleinezeitung.at](http://www.kleinezeitung.at/) and [wogibtswas.at](http://www.wogibtswas.at/) ) Web Development, SEO, Big Data, Recommendation Engines, Conversion Optimization, A/B Testing und Usability Testing
 * Projekt Lead Big Data, DMP und Recommendation Engine Projekte
