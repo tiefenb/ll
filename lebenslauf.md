@@ -14,7 +14,7 @@
 
 ##Career##
 
-###Web Shop Developer May 2016 - today####
+###Web Shop Developer, [Blue Tomato](https://www.blue-tomato.com/) May 2016 - today####
 
 * Development of new Web Shop Features (Web Shop, Content CMS, Styleguide, etc.)
 * UX Improvement, Conversion Optimization and A/B Testing
